@@ -7,3 +7,5 @@
 *.iml
 out
 gen
+Proxy0.class
+target/
