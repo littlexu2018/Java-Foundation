@@ -27,7 +27,7 @@ public class JdkInvocationHandler implements InvocationHandler {
 		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 		String currentDate  = simpleDateFormat.format(new Date());
 		System.out.println("日期【"+currentDate + "】添加了一款产品");
-
+		System.out.println("试一下提交代码上去！！！！！");
 		return method.invoke(this.target,args);
 
 	}
