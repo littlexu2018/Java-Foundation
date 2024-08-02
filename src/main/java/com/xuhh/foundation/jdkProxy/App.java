@@ -1,4 +1,4 @@
-package com.xuhh.foundation;
+package com.xuhh.foundation.jdkProxy;
 
 import com.xuhh.foundation.jdkProxy.JdkInvocationHandler;
 import com.xuhh.foundation.jdkProxy.ProductService;
